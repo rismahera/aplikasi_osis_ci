@@ -1,1 +1,2 @@
 # aplikasi_osis_ci
+Aplikasi ini di buat untuk pendataan anggota osis serta jabatan yang di jabat oleh beberapa anggota osis aplikasi ini juga bergunakan untuk mengetahui mengenai keanggotaan osis secara detail seperti nama anggota serta jabatan yang di jabat oleh anggota osis admin bisa menambah anggota osis baru yang baru bergabung serta menghapus nama anggota osis dalam list yang sudah tidak ikut dalan keanggotaan osis. 

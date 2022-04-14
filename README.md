@@ -6,3 +6,6 @@ Aplikasi ini di buat untuk pendataan anggota osis serta jabatan yang di jabat ol
 Data Anggota Osis
 
 ![anggtaosis11](https://user-images.githubusercontent.com/97660319/163301015-64f6bd1c-6de7-4b46-81d5-dd7b125372a9.png)
+
+Formulir tambah data anggota osis
+

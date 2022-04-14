@@ -9,3 +9,4 @@ Data Anggota Osis
 
 Formulir tambah data anggota osis
 
+![tambah anggota](https://user-images.githubusercontent.com/97660319/163301186-6f7abdbb-e83e-423a-9bf7-ae2c36a752ec.png)
